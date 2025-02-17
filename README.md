@@ -22,7 +22,6 @@ Para mais informações, consulte a **Documentação do Trabalho 1**.
 
 ## Trabalho 2: Expansão da Biblioteca de Grafos
 Objetivo: Adicionar novas funcionalidades à biblioteca desenvolvida no Trabalho 1, incluindo algoritmos mais avançados.  
-
 Descrição: O trabalho consiste em expandir a biblioteca anterior com as seguintes funcionalidades:  
 Determinar a árvore geradora mínima de um grafo.  
 Escrever a árvore geradora mínima em um arquivo, junto com seu peso total.  
@@ -30,8 +29,8 @@ Determinar uma cobertura mínima de vértices de um grafo.
 Determinar o emparelhamento máximo em um grafo.  
 Calcular a centralidade de proximidade de um vértice.  
 Requisitos: Linguagem de programação C, Compilador GCC, Sistema de arquivos: A biblioteca deve ler grafos a partir de arquivos texto.  
-Compilação e Execução: Para compilar o código, execute:
-**make all**
-Para executar o programa, use:
-**./programa**
+Compilação e Execução: Para compilar o código, execute:  
+**make all**  
+Para executar o programa, use:  
+**./programa**  
 Para mais informações, consulte a **Documentação do Trabalho 2**.
